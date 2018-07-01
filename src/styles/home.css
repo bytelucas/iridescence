@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700');
+
+.title {
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  font-size: 1.3em;
+  letter-spacing: 0.4em;
+  color: #fff;
+  transition: all 1s linear;
+}
+
+.one {
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  font-size: 1.3em;
+  letter-spacing: 0.4em;
+  color: #e74c3c;
+}
+.two {
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  font-size: 1.3em;
+  letter-spacing: 0.4em;
+  color: #a75d1c;
+}
+.three {
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  font-size: 1.3em;
+  letter-spacing: 0.4em;
+  color: #e67e22;
+}
+.four {
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  font-size: 1.3em;
+  letter-spacing: 0.4em;
+  color: #a08310;
+}
+.five {
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  font-size: 1.3em;
+  letter-spacing: 0.4em;
+  color: #e0ba20;
+}
+.six {
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  font-size: 1.3em;
+  letter-spacing: 0.4em;
+  color: #528e6c;
+}
+.seven {
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  font-size: 1.3em;
+  letter-spacing: 0.4em;
+  color: #33ac66;
+}
+.eight {
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  font-size: 1.3em;
+  letter-spacing: 0.4em;
+  color: #5685a5;
+}
+.nine {
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  font-size: 1.3em;
+  letter-spacing: 0.4em;
+  color: #3498db;
+}
+.ten {
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  font-size: 1.3em;
+  letter-spacing: 0.4em;
+  color: #8d7198;
+}
+.eleven {
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  font-size: 1.3em;
+  letter-spacing: 0.4em;
+  color: #9b59b6;
+}
